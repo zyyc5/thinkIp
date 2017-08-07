@@ -1,7 +1,9 @@
 # thinkIp
-翻译 ThinkPhp 中的查询ip详情的包，使用方式与ThinkPhp一样
+翻译 ThinkPhp 中的iplocation库，使用方式与ThinkPhp一样
 
 另外添加了对纯真ip库的支持
+
+查询出的结果中比iplocation多了一个china字段，这个是对结果的一个省市分词
 
 # 安装
 npm install thinkip
