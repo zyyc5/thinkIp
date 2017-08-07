@@ -1,0 +1,30 @@
+{
+  "name": "thinkip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyyc5/thinkIp.git"
+  },
+  "keywords": [
+    "think",
+    "thinkphp",
+    "IP",
+    "Address",
+    "iplib"
+  ],
+  "author": "Jimmy Z",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zyyc5/thinkIp/issues"
+  },
+  "homepage": "https://github.com/zyyc5/thinkIp#readme",
+  "dependencies": {
+    "china-address": "0.0.1",
+    "iconv-lite": "^0.4.18"
+  }
+}
